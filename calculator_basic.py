@@ -24,8 +24,5 @@ else:
     print("try again")
     
 
-print("Trigo")
 
-c=input("Trinometric ")
-d=float(input("ratio"))
 
